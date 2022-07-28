@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectType="typeDynamicLibrary" ProjectCreator="Intel Fortran" Keyword="Dll" Version="11.0" ProjectIdGuid="{2054D7CB-B74A-4269-BB8C-2460AA117953}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" Command="&quot;C:\Users\Кежик\Desktop\EMSL programms\EMSLUI\EMSLUI\bin\Debug\EMSLUI.exe&quot;"/>
+		<Configuration Name="Release|Win32" Command="&quot;C:\Users\Кежик\Desktop\EMSL programms\EMSLUI\EMSLUI\bin\Debug\EMSLUI.exe&quot;"/></Configurations></VisualStudioUserFile>
